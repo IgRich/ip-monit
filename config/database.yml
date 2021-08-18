@@ -1,0 +1,8 @@
+development:
+  db:
+    adapter: postgres
+    host: postgres_db # for docker. On localhost change
+    port: 5432
+    database: servers_com
+    user: postgres
+    password: postgres
