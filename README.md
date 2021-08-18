@@ -2,7 +2,7 @@
 Тестовй проект мониторинга ip адресов. Под капотом используется обычный ping.
 
 ## Запуск
-Клонируем: `git clone git@github.com:IgRich/ip-monit.git`
+Клонируем: `git clone git@github.com:IgRich/ip-monit.git`  
 Запускаем: `docker-compose up`
 
 ## API
